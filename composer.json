@@ -1,0 +1,10 @@
+{
+    "name": "yuki/composer-template001",
+    "authors": [
+        {
+            "name": "yukisov",
+            "email": "yukisov@gmail.com"
+        }
+    ],
+    "require": {}
+}
